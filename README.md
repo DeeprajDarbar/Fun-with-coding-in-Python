@@ -1,2 +1,2 @@
-# Num2Words
-Basic Python 3 program that uses inflect package to automate the process to convert input to words
+# Fun wtih coding in Python
+My solutions to some tricky, interesting, and competitive coding questions in Python
