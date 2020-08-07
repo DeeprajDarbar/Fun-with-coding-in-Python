@@ -1,5 +1,8 @@
 
 def zerostocentre(arr):
+    '''
+    a Fucntion to move all zeros to center of an array
+    '''
     n = arr.count(0)
     a = []
     for _ in range(n):
